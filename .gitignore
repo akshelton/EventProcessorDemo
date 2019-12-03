@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+*.user
+
+# VS Code files
+.vscode/
+
+# Rider config files
+.idea/
